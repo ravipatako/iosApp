@@ -1,0 +1,28 @@
+
+
+Problem Statement -- With the youth saving money and money managment is unlearned skill, and since that 
+			many young adults are going into debt. As someone who was faced with a similar issue, I believed
+			there would be a way to have program take my money then budget it and manage it for me. That is why I
+			started creating the finance calculator.
+
+Outline Goals -- Have an app that takes in income from the user then takes out the taxes and fees then allows them to split
+		up there money into various categories to have them budget easily.
+
+Chart Boundaries -- The major boundary would be using swift so that the app is an iOS application
+
+Success Criteria -- Similar to rubrics, is what is in the assessment to achieve a successful product
+
+Constraints -- The given time in which the project must be completed in as well as the limitations of iOS development compared to
+		android development. Another constraint include the data alloweed to be accessed from the user without getting into 
+		too much legality.
+
+Assumptions -- The project will be easier to update since the base of the program was once created in python and later moved to Java. 
+		Assuming the app will be easily design and very user friendly.
+
+Stakeholders -- The programmer themself (me), Professor Vanselow since its a class assignment as well. Students and friends who will 
+		be testing and potential using the application.
+
+Timeline -- 1) Understand Swift and get an idea (3-4 hours)
+		2) Determine the final outcome of the product and start working backwords with features (2-3 hours)
+		3) Understand the application from a layout perspective and create a flowchart (1-3 hours)
+		4) start development (many hours)
