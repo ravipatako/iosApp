@@ -6,5 +6,8 @@ To look at my in-depth look take a look at my TXT file
 
 This project is something I have created to help me better my Sneaker selling business.
 
-For more info on Gamer Kicks (my sneaker company) take a look at our Instagram or Facebook page @Gamer__Kicks and @gamerkicks
+For more info on Gamer Kicks (my sneaker company) take a look at our Instagram or Facebook
+Link to both 
+- https://www.instagram.com/gamer__kicks/  
+- https://www.facebook.com/gamerkicks/             
   
