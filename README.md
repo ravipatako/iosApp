@@ -1,8 +1,6 @@
-# financecalcios
+# SneakerIosApp   
 # Personal Project for COP 2001 -- Programming Methodology
 
-Week 2 --> 05/20- 05/24
-      Came up with a different idea and began the creation proccess
-          Looked into how to do to setup xCode since last time the Mac was giving me an error
-          
+After the first week, my idea changed and I decided to pick something closer to something I am passionate about
+To look at my in-depth look take a look at my TXT file 
     
