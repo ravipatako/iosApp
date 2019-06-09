@@ -20,7 +20,8 @@ Plan for Week 4 -- In week 4, I would like to start actually building the applic
 	-- Something thats not too important but I think will help with design, I want to start looking into color schemes for the application just because it should look clean and modern and I really dont want crazy colors with everything around the place. 
 	-- By the end of this week, I would also like to have finish the swift tutorial from Chris and if I need more help move onto other people who are also knowledgeable. A major resource I would like to start using are my classmates who are also working on Swift/iOS development since they are the most knowledgable resources I have in person.
 	
-
+Week 4 - It was looking good, finally finished the got my things in order and was able to finish the tutorials. I started the project began coding the design and framework behind the app. I have also start working on the UI, currently its just some texts boxes along with the logo on top but soon there will be more to come. 
+-- Major thing I changed was making the REPO private since outside of class I am trying to take this project very seriously in order to make my business better. I uploaded some pictures that I was able to create from online resources as well as the information discussed with my professor. The major trouble I had this week was pushing the xCode project to github. I start looking at some YouTube videos but found some that werent very helpful. I began looking at some stack overflow comments but have not tried them out because they seem a bit complex but definetly I will need to try soon. That is now my first priority because it needs to be done ASAP so the project is on github. The next thing I want to start working on is better the user interface and seeing if I want to add more pages to add versus just the landing page.
 
 
 
