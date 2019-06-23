@@ -93,6 +93,15 @@ the project is on github. The next thing I want to start working on is
 better the user interface and seeing if I want to add more pages to add
 versus just the landing page.
 
+# Week 5 -
+The first page of the UI is now complete with how I want it to look like for now. 
+My main goal right is trying to get the app working and then going back and changing the visuals. 
+Currently the UI has the text boxes and the submit button. Now I need to start working on the 
+programming part of it and get the math together. The good part of this since I was able to work on that
+earlier it wouldnt be too hard. The math is done now to just transfer that code. I am a bit confused on how to 
+swift programming language works in terms of working with the association of the code with the page. Its a major thing 
+I need to look into.
+
 # Problem Statement -- 
 For sometime, I have been selling shoes but in the
 sneaker market prices are always changing and it can be hard to
